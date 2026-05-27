@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userserify",
+        "uuid": 10562123,
+        "checksum": "60vi6n"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
